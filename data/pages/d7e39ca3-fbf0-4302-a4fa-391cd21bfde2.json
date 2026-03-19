@@ -4,6 +4,57 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "Texto"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        3,
+        3
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "f"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "f"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
@@ -35,7 +86,7 @@
   "created_by": "sappiaceci-collab",
   "title": "Memoria abierta",
   "slug": "memoria-abierta",
-  "updated_at": "2026-03-19T21:40:26.758Z",
+  "updated_at": "2026-03-19T21:41:27.012Z",
   "updated_by": "sappiaceci-collab",
   "autogenerate": {
     "enabled": false,
