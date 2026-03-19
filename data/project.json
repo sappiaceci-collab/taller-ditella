@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "sappiaceci-collab",
+      "avatar_url": "https://avatars.githubusercontent.com/u/269502657?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "sappiaceci-collab",
     "is_private": false,
@@ -22,6 +28,27 @@
       "tags": []
     },
     "created_at": "2026-03-19T21:28:52.840Z",
-    "updated_at": "2026-03-19T21:28:52.841Z"
-  }
+    "updated_at": "2026-03-19T21:28:52.841Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "6eccc0ab-6597-460b-a206-ee1f068647d2": {
+      "content": [],
+      "created_at": "2026-03-19T21:28:52.862Z",
+      "created_by": "sappiaceci-collab",
+      "title": "Taller Di Tella",
+      "updated_at": "2026-03-19T21:28:52.862Z",
+      "updated_by": "sappiaceci-collab",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "6eccc0ab-6597-460b-a206-ee1f068647d2"
+  ]
 }
